@@ -8,6 +8,7 @@
 -------------------------------*/
 
 
+
 .container{
     font-family: 'Saira Extra Condensed', sans-serif;
     font-size: 24pt;
@@ -68,6 +69,7 @@ h3.kleine{
     margin: 0% 0% 0% 7.5%;
 }
 
+
 /* Verwijderd ongewenste linebreaks */
 .breakline{
     white-space: pre;
@@ -85,7 +87,7 @@ h3.kleine{
 }
 .borderTop{
     border-top: solid 5px #ECECEC;
-    margin: 0px 0px 0px 0px;
+    margin: 3% 0px 0px 0px;
 }
 
 
