@@ -152,7 +152,7 @@ h3.beigeTekst, p.beigeTekst{
 /* Large devices (desktops, 992px and up)*/
 @media (min-width: 992px) {
     #font{
-        font-size: 2.7em;
+        font-size: 2.5em;
     }
     div.lijst > div.row > h2{
         font-size: 30pt;
@@ -163,7 +163,7 @@ h3.beigeTekst, p.beigeTekst{
 /* Extra large devices (large desktops, 1200px and up)*/
 @media (min-width: 1200px) { 
     #font{
-        font-size: 3.35em;
+        font-size: 3em;
     }
     div.lijst > div.row > h2{
         font-size: 30pt;
