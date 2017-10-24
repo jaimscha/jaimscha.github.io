@@ -9,6 +9,11 @@
 
 
 
+a#calltoaction:hover{
+    text-decoration-line: none;
+    background-color: #414034;
+    
+}
 .container{
     font-family: 'Saira Extra Condensed', sans-serif;
     font-size: 24pt;
@@ -38,15 +43,15 @@ div.lijst > div.row > h2{
 h3.kleine{
     margin-bottom:  0rem;
 }
-
+#tekstKleiner{
+    font-size: 1.0em
+}
 
 .marginbottom{
     margin-bottom: 10%;
     padding-top:
 }
-.marginTop{
 
-}
 
 .padding{
     padding: 5% 10% 0% 10%;
